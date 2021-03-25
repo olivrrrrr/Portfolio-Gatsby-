@@ -2,7 +2,7 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
+  title: 'Oliver Ekwalla | Developer', // e.g: 'Name | Developer'
   lang: '', // e.g: en, es, fr, jp
   description: '', // e.g: Welcome to my website
 };
@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Oliver Ekwalla.',
-  subtitle: 'I am a Self-Taught, Frontend Developer',
+  subtitle: 'I am a Self-Taught, Frontend Developer based in London',
   cta: '',
 };
 
@@ -19,9 +19,9 @@ export const heroData = {
 export const aboutData = {
   img: 'San Francisco.jpg',
   paragraphOne: 'I am a final-year student Chemistry student at the University of Nottingham. Whilst at University, I have self-taught HTML, CSS, JavaScript & Python. ',
-  paragraphTwo: 'Throughout my time at university, , I have gained extensive experience in working collaboratively, problem-solving, and public speaking through extra-curricular roles such as the Chemistry Society President and Chemistry Society Treasurer. ',
-  paragraphThree: 'XXX',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  paragraphTwo: 'Throughout my time at university, I have gained extensive experience in working collaboratively, problem-solving, and public speaking through extra-curricular roles and my degree. ',
+  paragraphThree: ' I enjoy building software, contributing to the open source community, and continuously learning.',
+  resume: 'https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:9d429d38-dc1c-4210-ae35-d6a2db9cc072', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -32,7 +32,7 @@ export const projectsData = [
     title: 'ChemDataExtractor - Machine Learning',
     info: 'For my final year masters project, I worked on a natural procressing project. ',
     info2: '',
-    // url: '',
+    url: 'https://github.com/olivrrrrr/ChemDataExtractor',
     repo: 'https://github.com/olivrrrrr/ChemDataExtractor', // if no repo, the button will not show up
   }
 ];
@@ -41,7 +41,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'oliverekwalla@gmail.com',
 };
 
 // FOOTER DATA
