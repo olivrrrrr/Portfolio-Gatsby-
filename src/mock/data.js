@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Oliver Ekwalla.',
-  subtitle: 'I am a Self-Taught, Frontend Developer based in London',
+  subtitle: 'I am a Self-Taught, Frontend Developer based in London.',
   cta: '',
 };
 
@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am a final-year student Chemistry student at the University of Nottingham. Whilst at University, I have self-taught HTML, CSS, JavaScript & Python. ',
   paragraphTwo: 'Throughout my time at university, I have gained extensive experience in working collaboratively, problem-solving, and public speaking through extra-curricular roles and my degree. ',
   paragraphThree: ' I enjoy building software, contributing to the open source community, and continuously learning.',
-  resume: 'https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:9d429d38-dc1c-4210-ae35-d6a2db9cc072', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1aRN6HlNDNktHthHZJdMKCZvR9Md_-dhF/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
