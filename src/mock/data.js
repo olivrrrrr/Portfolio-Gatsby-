@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'Screenshot (2).png',
     title: 'ChemDataExtractor - Machine Learning',
-    info: 'For my final year masters project, I worked on a natural procressing project. ',
+    info: 'For my final year masters project, I worked in Python on a machine learning project to extract chemical information from scientific literature. ',
     info2: '',
     url: 'https://github.com/olivrrrrr/ChemDataExtractor',
     repo: 'https://github.com/olivrrrrr/ChemDataExtractor', // if no repo, the button will not show up
