@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am a final-year student Chemistry student at the University of Nottingham. Whilst at University, I have self-taught HTML, CSS, JavaScript & Python. ',
   paragraphTwo: 'Throughout my time at university, I have gained extensive experience in working collaboratively, problem-solving, and public speaking through extra-curricular roles and my degree. ',
   paragraphThree: ' I enjoy building software, contributing to the open source community, and continuously learning.',
-  resume: 'https://drive.google.com/file/d/1jp_hqQhA07L2Ci0sjbWmg6xQdg3pcudb/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/drive/folders/14ob4okCnFK3FEKHokONKk_XxTNherBfD', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
